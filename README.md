@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @infostud
+- 👀 I used to trawl USENet News looking for interesting things to try.
+- 🌱 I’ve played with about 500 programming languages from APL to ZOPE.
+- 💞️ I’m too old to collaborate these days.
+- 📫 I'm difficult to reach.
